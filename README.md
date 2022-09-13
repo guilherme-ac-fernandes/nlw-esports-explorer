@@ -1,1 +1,1 @@
-# nlw-esports-explorer
+# nlw-esports-ignite
