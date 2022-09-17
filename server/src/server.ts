@@ -14,6 +14,8 @@ app.use(cors());
 
 const PORT = 3333;
 
+// A chave no final com query mostra as query realizadas no banco de dados pelo prisma
+// const prisma = new PrismaClient({ log: ['query'] });
 const prisma = new PrismaClient({ log: ['query'] });
 
 // Rota de Validação
