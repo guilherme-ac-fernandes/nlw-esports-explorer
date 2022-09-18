@@ -17,7 +17,7 @@ Consiste em uma aplicação web e mobile para encontro de jogadores de games par
 
 
 #### Mobile
-<div align="center" >
-  <img src="https://github.com/guilherme-ac-fernandes/nlw-esports-ignite/blob/main/demo-imagens/mobile-01.png" width="50%" alt="eSport Mobile - Demostração"/>
-  <img src="https://github.com/guilherme-ac-fernandes/nlw-esports-ignite/blob/main/demo-imagens/mobile-02.png" width="50%" alt="eSport Mobile - Demostração"/>
+<div display="flex" align="center" >
+  <img src="https://github.com/guilherme-ac-fernandes/nlw-esports-ignite/blob/main/demo-imagens/mobile-01.png" width="400px" alt="eSport Mobile - Demostração"/>
+  <img src="https://github.com/guilherme-ac-fernandes/nlw-esports-ignite/blob/main/demo-imagens/mobile-02.png" width="400px" alt="eSport Mobile - Demostração"/>
 </div>
