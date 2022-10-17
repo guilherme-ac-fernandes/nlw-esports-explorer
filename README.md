@@ -3,7 +3,7 @@
 
 Consiste em uma aplicação web e mobile para encontro de jogadores de games para jogar em conjunto pelo discord.
 
-* Front-End construído utilizado React, TypeScript, Hooks e Tailwindcss.
+* Front-End construído utilizado React, TypeScript, React-Hooks e Tailwindcss.
 * Back-End construído utilizando Node.js, Express, TypeScript, Prisma e SQLite.
 * Mobile construído utilizando React, React-Native, TypeScript e Expo.
 
