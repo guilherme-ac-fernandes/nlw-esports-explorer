@@ -1,4 +1,4 @@
-# Projeto eSport 🎮
+# Projeto eSport 🎮🕹
 > Projeto da Rocketseat
 
 Consiste em uma aplicação web e mobile para encontro de jogadores de games para jogar em conjunto pelo discord.
