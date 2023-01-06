@@ -11,13 +11,13 @@ Consiste em uma aplicação web e mobile para encontro de jogadores de games par
 
 #### Browser
 <p align="center">
-  <img src="https://github.com/guilherme-ac-fernandes/nlw-esports-ignite/blob/main/demo-imagens/web-01.png" alt="eSport Browser - Demostração"/>
-  <img src="https://github.com/guilherme-ac-fernandes/nlw-esports-ignite/blob/main/demo-imagens/web-02.png" alt="eSport Browser - Demostração"/>
+  <img src="https://github.com/guilherme-ac-fernandes/nlw-esports-ignite/blob/main/demo-images/web-01.png" alt="eSport Browser - Demostração"/>
+  <img src="https://github.com/guilherme-ac-fernandes/nlw-esports-ignite/blob/main/demo-images/web-02.png" alt="eSport Browser - Demostração"/>
 </p>
 
 
 #### Mobile
 <div display="flex" align="center" >
-  <img src="https://github.com/guilherme-ac-fernandes/nlw-esports-ignite/blob/main/demo-imagens/mobile-01.png" width="400px" alt="eSport Mobile - Demostração"/>
-  <img src="https://github.com/guilherme-ac-fernandes/nlw-esports-ignite/blob/main/demo-imagens/mobile-02.png" width="400px" alt="eSport Mobile - Demostração"/>
+  <img src="https://github.com/guilherme-ac-fernandes/nlw-esports-ignite/blob/main/demo-images/mobile-01.png" width="400px" alt="eSport Mobile - Demostração"/>
+  <img src="https://github.com/guilherme-ac-fernandes/nlw-esports-ignite/blob/main/demo-images/mobile-02.png" width="400px" alt="eSport Mobile - Demostração"/>
 </div>
